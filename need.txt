@@ -1,0 +1,13 @@
+Welcome to my gig!
+
+Hi, I'm [Tanvir Absar], a professional web developer with expertise in HTML5, CSS3, JavaScript ES6, Tailwind CSS, Daisy UI, Nodejs, MongoDB, Mongoose, and ExpressJS.
+
+I specialize in converting Figma designs into high-quality, responsive websites. Whether you need a portfolio website, an e-commerce site, or any other type of website, I've got you covered.
+
+I offer three packages to suit your needs: Basic, Standard, and Premium. From converting up to 3 screens to fully integrating backend technologies, there's a package for everyone.
+
+With years of experience and a commitment to delivering pixel-perfect, clean, and well-structured code, I ensure that your website not only looks great but also performs flawlessly.
+
+Ready to bring your Figma designs to life? Contact me today and let's get started on your next project!
+
+Thank you for watching! Click the link below to check out my gig and place your order.
